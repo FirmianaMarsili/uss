@@ -12,7 +12,6 @@ Provides syntax highlighting, Go To Definition (F12 & Ctrl+Click), IntelliSense,
 ### Navigation
 - **Go To Definition (F12)** — Jump to functions, structs, fields, variables, parameters, macros
 - **Ctrl+Click** — Hold Ctrl and click to navigate; hover shows underline hint
-- **Find All References (Shift+F12)** — Find all usages of a symbol
 - **#include recursive search** — Walk include chains layer by layer (configurable depth)
 - **Sibling file search** — Search all shader files in the same directory (optional)
 - **Member access resolution** — `output.positionWS` jumps to the corresponding struct field definition
